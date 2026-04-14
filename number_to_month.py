@@ -27,4 +27,4 @@ def number_to_month(month):
     elif month == 12:
         return "diciembre"
     else:
-        return "Mes invalido"
+        return "error"
